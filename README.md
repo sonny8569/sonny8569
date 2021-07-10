@@ -12,7 +12,7 @@ Career: Produced automatic data collection and storage program in the Informatio
          Hannam University Design Factory Capstone Design Android App production
          Participated as a delegation of the Korea-China Youth Exchange Group
          Awarded the Minister of Gender Equality and Family Award by the Korea-China Youth Exchange Federation
-##大家好！
+## 大家好！
 我叫金成一， 我是翰南大雪的学生。
 来历:韩国生命工学研究院政策研究室PYTHON Programmer
      Create Android Apps
