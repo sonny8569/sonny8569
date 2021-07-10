@@ -13,7 +13,7 @@ Career: Produced automatic data collection and storage program in the Informatio
          Participated as a delegation of the Korea-China Youth Exchange Group
          Awarded the Minister of Gender Equality and Family Award by the Korea-China Youth Exchange Federation
 ## 大家好！
-我叫金成一， 我是翰南大雪的学生。
+我叫金成一， 我是翰南大学的学生。
 来历:韩国生命工学研究院政策研究室PYTHON Programmer
      Create Android Apps
      韩国代表团将参加韩中青少年交流活动
