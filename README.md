@@ -7,7 +7,7 @@
       한중 청소년교류연맹 여성가족부 장관상 수상
       
 ## Hello!
-I am Seongil Kim, Multimedia Department at Hannam University.
+I am Seongil Kim, Multimedia Major at Hannam University.
 Career: Produced automatic data collection and storage program in the Information Analysis Lab of the National Biotechnology Research Policy Research Center, Korea Institute of Bioscience and Biotechnology
          Hannam University Design Factory Capstone Design Android App production
          Participated as a delegation of the Korea-China Youth Exchange Group
